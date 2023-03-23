@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @luckyamber1992
-- 👀 I’m interested in cancer research
-- 🌱 I’m currently learning coding with python
-- 💞️ I’m looking to collaborate on releveant projects related to biomarker identification in cancer research
+- 👋 Hi, I’m Amber
+- 👀 I’m interested in computaional biology and cancer research 
+- 🌱 I’m currently learning frontend development and java
+- 💞️ I love cooking and music
 - 📫 How to reach me--send me email via yiyiyivictor@163.com
 
 <!---
