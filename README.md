@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amber
-- 👀 I’m interested in computaional biology and cancer research 
+- 👀 I’m interested in computational biology and cancer research 
 - 🌱 I’m currently learning frontend development and java
 - 💞️ I love cooking and music
 - 📫 How to reach me--send me email via yiyiyivictor@163.com
