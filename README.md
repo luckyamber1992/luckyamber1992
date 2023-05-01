@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Amber Yang
+- :brain:I am a CS student in UT Dallas
 - 👀 I have a huge interest in cancer research and believes in the power of artificial intelligence in driving the advancement of drug discovery!
 - 🌱 I’m currently learning Python and data structures
 - 💞️ I love cooking and music
